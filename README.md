@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m Arpan Adhikari (@arpadhikari)
 - 👀 I’m interested in ML and webdev (mostly backend stuffs)
-- 📫 You can reach me on X @a059Cortex 
+- 📫 You can reach me on <a href = "https://twitter.com/a059Cortex">X (Twitter)</a>
 
 <!---
 arpadhikari/arpadhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
