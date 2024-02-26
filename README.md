@@ -1,7 +1,11 @@
+
+
+<img alt = "GIF" align="right" height="250" src ="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-dragon-ball-gif-38.gif">
+
+
+
 - 👋 Hi, I’m Arpan Adhikari (@arpadhikari)
 - 👀 I’m interested in ML and webdev (mostly backend stuffs)
-- 🌱 I’m currently learning everything i can 
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on X @a059Cortex 
 
 <!---
