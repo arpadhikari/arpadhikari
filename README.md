@@ -2,7 +2,7 @@
 
 <img alt = "GIF" align="right" height="250" src ="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-dragon-ball-gif-38.gif">
 
-- i dabble in systems programming and Deep Learing. 
+- i dabble in systems programming and Deep Learning. 
 
 <!---
 arpadhikari/arpadhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
